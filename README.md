@@ -79,5 +79,5 @@ cd my-app
 ```
 npm start
 ```
-![image](https://user-images.githubusercontent.com/104560635/220096976-4b1753bd-ff17-4d0f-b171-7c83b48aa494.png)
+
 
