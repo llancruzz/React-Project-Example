@@ -55,3 +55,29 @@ The configuration for all these files and how they work together is managed with
 Everything else you see here is secondary to understanding how a React application works.
 JSX is the syntax being used in both index.js  
 and App.js.</p>
+
+# React
+
+# Creating your first React App
+
+### To create Reacp App
+
+- Run this code npx in the terminal
+
+```
+npx create-react-app my-app --use-npm
+```
+
+- Select the folder name you've created
+
+```
+cd my-app
+```
+
+- Run this code in the terminal
+
+```
+npm start
+```
+![image](https://user-images.githubusercontent.com/104560635/220096976-4b1753bd-ff17-4d0f-b171-7c83b48aa494.png)
+
