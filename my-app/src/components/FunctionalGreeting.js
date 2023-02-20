@@ -3,10 +3,15 @@
 import React from "react";
 
 // Create function to return html
-function FunctionalGreeting(){
-    return <h1>Hello from React!</h1>
-}
+// Function Js Vanilla
+// function FunctionalGreeting(){
+//    return <h1>Hello from React!</h1>
+// }
+
+// Function Js ES6 Arrow
+const FunctionalGreeting = () => <h1>Hello from React!</h1>
 
 // To display it, you have to export the function and import that function
 // where you want to use, on that case in App.js
 export default FunctionalGreeting
+
